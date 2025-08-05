@@ -1,7 +1,7 @@
 # Orderly
 
 **Orderly** is a full‑stack, production‑ready food lifecycle management platform designed to streamline operations across customers, staff, consolidation, and admin roles.  
-It combines **role‑based access control (RBAC)**, **real‑time WebSocket updates**, and a sleek **React + Material‑UI** frontend to deliver a fast, intuitive experience for all user types.
+It combines **role‑based access control (RBAC)**, **real‑time WebSocket updates**, and a sleek **React + Material‑UI** frontend to deliver a fast, intuitive experience for all user types and give them a feeling of a real restaraunt.
 
 ## 🚀 Key Features
 - **Customer Ordering** – Browse categorized products, add to cart, and place orders.
@@ -24,3 +24,4 @@ It combines **role‑based access control (RBAC)**, **real‑time WebSocket upda
 ---
 
 ## 📦 Installation & Setup
+
