@@ -2,7 +2,7 @@ import axios from 'axios';
 import useAuthStore from '../store/authStore';
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:3001/api', // Your backend URL
+  baseURL: 'https://orderly-uds8.onrender.com/api', // Updated backend URL
 });
 
 // Use an interceptor to add the token to every request
